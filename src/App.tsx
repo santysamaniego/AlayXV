@@ -145,7 +145,7 @@ export default function App() {
       <audio 
         ref={audioRef} 
         loop 
-        src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" 
+        src="audio_taylor.mp3" 
       />
 
       {/* Music Toggle Floating Button */}
@@ -233,12 +233,12 @@ export default function App() {
             <MapPin className="text-deep-pink opacity-40" size={40} />
           </div>
           <h2 className="text-3xl font-serif italic mb-4">Ubicación</h2>
-          <p className="text-lg mb-2">Dorrego, La Matanza</p>
-          <p className="text-sm opacity-60 mb-8 italic">Calle Falsa 123, Buenos Aires</p>
+          <p className="text-lg mb-2">Espacio Liam</p>
+          <p className="text-sm opacity-60 mb-8 italic">Carola lorenzini 7056, Dorrego</p>
           
           <div className="aspect-video w-full rounded-3xl overflow-hidden shadow-lg mb-8 border-4 border-white">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13123.456789!2d-58.5!3d-34.7!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQyJzAwLjAiUyA1OMKwMzAnMDAuMCJX!5e0!3m2!1sen!2sar!4v1620000000000!5m2!1sen!2sar" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.872262576892!2d-58.610078099999996!3d-34.7839909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc57951956b75%3A0x174904ae35ccf436!2sEspacio%20Liam!5e0!3m2!1ses-419!2sar!4v1772389936106!5m2!1ses-419!2sar" 
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 
@@ -292,7 +292,7 @@ export default function App() {
         >
           <Clock className="mx-auto mb-4 text-deep-pink opacity-40" size={32} />
           <h3 className="text-2xl font-serif italic mb-2">Horario</h3>
-          <p className="text-lg font-display text-deep-pink tracking-tighter">21:00 a 05:00 HS</p>
+          <p className="text-lg font-display text-deep-pink tracking-tighter">12:00 a 20:00 Hs</p>
           <p className="text-xs opacity-50 mt-2 uppercase tracking-widest">Recepción y Fiesta</p>
         </motion.div>
 
@@ -324,7 +324,7 @@ export default function App() {
           </p>
           <div className="bg-white/60 backdrop-blur-sm rounded-2xl p-6 border border-white/40 shadow-sm">
             <p className="text-xs uppercase tracking-widest opacity-50 mb-2">Alias de la Quinceañera</p>
-            <p className="text-xl font-display text-deep-pink select-all cursor-pointer">ALAY.XV.FIESTA</p>
+            <p className="text-xl font-display text-deep-pink select-all cursor-pointer">Alay.ibz</p>
           </div>
         </motion.div>
       </section>
@@ -342,7 +342,7 @@ export default function App() {
             Es muy importante para mí contar con tu presencia en esta noche tan especial. Por favor, confirmá antes del 20 de Abril.
           </p>
           <a 
-            href="https://wa.me/1234567890?text=Hola!%20Confirmo%20mi%20asistencia%20a%20los%20XV%20de%20Alay" 
+            href="https://wa.me/5491137651757?text=Hola!%20Confirmo%20mi%20asistencia%20a%20los%20XV%20de%20Alay" 
             target="_blank" 
             rel="noopener noreferrer"
             className="block w-full py-4 bg-deep-pink text-white rounded-full shadow-lg hover:bg-deep-pink/90 transition-all active:scale-95 font-bold tracking-widest uppercase text-sm"
