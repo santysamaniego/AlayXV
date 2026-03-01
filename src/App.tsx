@@ -248,7 +248,7 @@ export default function App() {
           </div>
           
           <a 
-            href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.872262576892!2d-58.610078099999996!3d-34.7839909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc57951956b75%3A0x174904ae35ccf436!2sEspacio%20Liam!5e0!3m2!1ses-419!2sar!4v1772389936106!5m2!1ses-419!2sar" 
+            href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.872262576892!2d-58.610078099999996!3d-34.7839909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc57951956b75%3A0x174904ae35ccf436!2sEspacio%20Liam!5e0!3m2!1ses-419!2sar!4v1772389936106!5m2!1ses-419!2sahttps://maps.app.goo.gl/w3Tu3My1ziW4gDLo8r" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3 bg-white text-deep-pink rounded-full shadow-md hover:shadow-lg transition-all active:scale-95 font-medium"
