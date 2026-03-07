@@ -167,7 +167,7 @@ export default function App() {
           className="absolute inset-0"
         >
           <img 
-            src="https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=1920" 
+            src="img_alahi_fondo_pag.jpeg" 
             alt="Quinceañera" 
             className="h-full w-full object-cover"
             referrerPolicy="no-referrer"
