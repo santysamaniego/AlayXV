@@ -167,7 +167,7 @@ export default function App() {
           className="absolute inset-0"
         >
           <img 
-            src="img_alahi_fondo_pag.jpeg" 
+            src="img_alay_fondo_pag.jpeg" 
             alt="Quinceañera" 
             className="h-full w-full object-cover"
             referrerPolicy="no-referrer"
